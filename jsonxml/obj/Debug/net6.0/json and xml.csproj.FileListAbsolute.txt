@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\jsonandxml\json and xml\bin\Debug\net6.0\json and xml.exe
+C:\Users\Asus\Desktop\jsonandxml\json and xml\bin\Debug\net6.0\json and xml.deps.json
+C:\Users\Asus\Desktop\jsonandxml\json and xml\bin\Debug\net6.0\json and xml.runtimeconfig.json
+C:\Users\Asus\Desktop\jsonandxml\json and xml\bin\Debug\net6.0\json and xml.dll
+C:\Users\Asus\Desktop\jsonandxml\json and xml\bin\Debug\net6.0\json and xml.pdb
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.AssemblyInfo.cs
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.dll
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\refint\json and xml.dll
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.pdb
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\json and xml.genruntimeconfig.cache
+C:\Users\Asus\Desktop\jsonandxml\json and xml\obj\Debug\net6.0\ref\json and xml.dll
